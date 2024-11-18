@@ -1,0 +1,32 @@
+/* Estilo general */
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.background-aqua {
+  background-color: aqua;
+  padding: 20px;
+}
+
+.silver {
+  background-color: silver;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}

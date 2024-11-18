@@ -1,0 +1,33 @@
+/* Fondo de la página */
+body {
+  background-color: yellow;
+  font-family: Verdana, sans-serif;
+}
+
+/* Título de la página */
+h1 {
+  color: orange;
+}
+
+/* Estilo para los enlaces */
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: green;
+  text-decoration: none;
+}
+
+a:active {
+  color: lime;
+}
+
+/* Tamaño del texto en las listas */
+li {
+  font-size: 15px;
+}
